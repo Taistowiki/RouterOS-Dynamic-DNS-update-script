@@ -5,8 +5,6 @@ Yksinkertainen dynaamisen dns scripti Mikrotikin reitittimeen
 
 <h2> Käyttö </h2>
 
-Lataa ensin tämä reprosity.
-
 Avaa updater_over_nat.txt tiedosto.
 
 Määritä dynaamisen dns palveluntarjoajan antama käyttäjänimi
@@ -22,3 +20,5 @@ Määritä tähän palveluntarjoajan antama dynaamisen dns verkko-osoite.
 ```
 :local hostname "blabla.dy.fi"
 ```
+
+Lisätietoa: https://www.taisto.org/DDNS_p%C3%A4ivitysohjelmat
