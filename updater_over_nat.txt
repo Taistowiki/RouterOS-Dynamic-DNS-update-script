@@ -1,7 +1,7 @@
 # Set needed variables
 :local username "theddnsusername"
 :local password "theddnspassword"
-:local hostname "blabla.dyndns.org"
+:local hostname "blabla.dy.fi"
 
 :global dyndnsForce
 :global previousIP
