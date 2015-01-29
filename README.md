@@ -1,5 +1,4 @@
-# RouterOS_ddns_updater
-Dynamic DNS update Mikrotik Router
+# RouterOS Dynamic DNS update script
 
 Yksinkertainen dynaamisen dns scripti Mikrotikin reitittimeen
 
