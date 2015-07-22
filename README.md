@@ -4,8 +4,6 @@ Yksinkertainen dynaamisen dns scripti Mikrotikin reitittimeen
 
 <h2> Käyttö </h2>
 
-Avaa updater_over_nat.txt tiedosto.
-
 Määritä dynaamisen dns palveluntarjoajan antama käyttäjänimi
 
 ```
